@@ -40,19 +40,25 @@ with optional ElevenLabs or OpenAI voices.
 
 ## My role - Co-Designer
 * Steered the team's ideation toward a single, clearly defined
-  audience, unknowledgeable guardians explaining to two to six-
-  year-old children with visual impairments, which focused on
+  audience, guardians explaining to two to six-year-old
+  children with visual impairments, which focused on
   the concept and the final product.
 * Conducted background research on vision disabilities, from
   low vision to blindness, to ground the multi-sensory approach
   in evidence about how these children learn.
 * Co-designed the app's interface and voice-first flow, and
   co-presented the project to a panel of disability experts.
-  [Insert special recognition]
 
 ## Team
-Stacey Cho, Tamara Dzogovic, Ling Fan, Lindsay Kim, Riya Parikh, Jules Ramos - Co-designer · Original repository:
-https://github.com/Stacey628/LuckyCharmAgent
+- Stacey Cho - Co-designer
+- Tamara Dzogovic - Co-designer
+- Ling Fan - Co-designer
+- Lindsay Kim - Co-designer
+- Riya Parikh - Co-designer
+- Jules Ramos - Co-designer
+- Rony Astete - Co-designer
+
+Original repository: https://github.com/Stacey628/LuckyCharmAgent
 
 ## Next steps
 - Generate explanations for any question with an LLM
