@@ -8,7 +8,11 @@ Graduate School of Education (November 2026).
 
 **[Live demo](https://ronyastete.github.io/LittleWhy/)** · best in Chrome, allow microphone
 
-![Screenshots](docs/screens.png) [*TODO: Video paste from the original presentation.]
+
+
+https://github.com/user-attachments/assets/5ea6f29b-2b60-4273-97c5-f98d31e5817c
+
+
 
 ## The problem
 Young children ask "why?" about things they usually learn by seeing, like
@@ -47,7 +51,7 @@ with optional ElevenLabs or OpenAI voices.
   [Insert special recognition]
 
 ## Team
-[Stacey Cho, Tamara Dzogovic, Ling Fan, Lindsay Kim, Riya Parikh, Jules Ramos - Co-designer] · Original repository:
+Stacey Cho, Tamara Dzogovic, Ling Fan, Lindsay Kim, Riya Parikh, Jules Ramos - Co-designer · Original repository:
 https://github.com/Stacey628/LuckyCharmAgent
 
 ## Next steps
