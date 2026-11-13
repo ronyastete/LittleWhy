@@ -43,7 +43,8 @@ with optional ElevenLabs or OpenAI voices.
   low vision to blindness, to ground the multi-sensory approach
   in evidence about how these children learn.
 * Co-designed the app's interface and voice-first flow, and
-* co-presented the project to a panel of disability experts.
+  co-presented the project to a panel of disability experts.
+  [Insert special recognition]
 
 ## Team
 [Names - Co-designer] · Original repository:
