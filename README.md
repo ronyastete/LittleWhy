@@ -64,4 +64,4 @@ Original repository: https://github.com/Stacey628/LuckyCharmAgent
 - Generate explanations for any question with an LLM
 - Test with caregivers and vision specialists
 - Screen-reader audit (ARIA labels, focus order)
-- Dark Mode UI
+- High-contrast and large-text modes
