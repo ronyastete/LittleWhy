@@ -47,7 +47,7 @@ with optional ElevenLabs or OpenAI voices.
   [Insert special recognition]
 
 ## Team
-[Names - Co-designer] · Original repository:
+[Stacey Cho, Tamara Dzogovic, Ling Fan, Lindsay Kim, Riya Parikh, Jules Ramos - Co-designer] · Original repository:
 https://github.com/Stacey628/LuckyCharmAgent
 
 ## Next steps
