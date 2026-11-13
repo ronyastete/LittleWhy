@@ -40,9 +40,9 @@ with optional ElevenLabs or OpenAI voices.
 
 ## My role - Co-Designer
 * Steered the team's ideation toward a single, clearly defined
-  audience, guardians explaining to two to six-year-old
-  children with visual impairments, which focused on
-  the concept and the final product.
+  audience, guardians explaining to two- to six-year-old
+  children with visual impairments, which focused the concept
+  and the final product.
 * Conducted background research on vision disabilities, from
   low vision to blindness, to ground the multi-sensory approach
   in evidence about how these children learn.
